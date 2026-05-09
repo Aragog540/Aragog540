@@ -13,7 +13,13 @@ I'm currently working on<br>Building LLM-based pipelines using RAG, LangGraph, a
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aragog540&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## 🕉️ Bhagavad Gita Quote
+
+> *“Karmanye vadhikaraste ma phaleshu kadachana,  
+> Ma karma phala hetur bhur ma te sangostvakarmani.”*
+
+> *“You have a right to perform your prescribed duties, but you are not entitled to the fruits of your actions. Never consider yourself the cause of the results of your activities, nor be attached to inaction.”*
+
+— **Bhagavad Gita 2.47**
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
