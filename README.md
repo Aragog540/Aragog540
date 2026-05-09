@@ -15,8 +15,8 @@ I'm currently working on<br>Building LLM-based pipelines using RAG, LangGraph, a
 
 ## 🕉️ 
 
-> **“Karmanye vadhikaraste ma phaleshu kadachana,  
-> Ma karma phala hetur bhur ma te sangostvakarmani.”**
+> “Karmanye vadhikaraste ma phaleshu kadachana,  
+> Ma karma phala hetur bhur ma te sangostvakarmani.”
 
 > *“You have a right to perform your prescribed duties, but you are not entitled to the fruits of your actions. Never consider yourself the cause of the results of your activities, nor be attached to inaction.”*
 
