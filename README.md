@@ -13,7 +13,7 @@ I'm currently working on<br>Building LLM-based pipelines using RAG, LangGraph, a
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aragog540&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-## 🕉️ Bhagavad Gita Quote
+## 🕉️ 
 
 > *“Karmanye vadhikaraste ma phaleshu kadachana,  
 > Ma karma phala hetur bhur ma te sangostvakarmani.”*
