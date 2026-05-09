@@ -13,7 +13,7 @@ I'm currently working on<br>Building LLM-based pipelines using RAG, LangGraph, a
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aragog540&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # GSSoC Badges 
-<img width="810" height="810" alt="contributor" src="https://github.com/user-attachments/assets/1c17399e-6e46-41c5-a5ca-282c2e5a3622" />
+<img width="100" height="100" alt="contributor" src="https://github.com/user-attachments/assets/1c17399e-6e46-41c5-a5ca-282c2e5a3622" />
 
 ## 🕉️ 
 
