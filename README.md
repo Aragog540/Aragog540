@@ -12,10 +12,6 @@ I'm currently working on<br>Building LLM-based pipelines using RAG, LangGraph, a
 ![](https://streak-stats.demolab.com/?user=Aragog540&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aragog540&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# GSSoC Badges 
-<img width="100" height="100" alt="contributor" src="https://github.com/user-attachments/assets/1c17399e-6e46-41c5-a5ca-282c2e5a3622" />
-<img width="100" height="100" alt="ai" src="https://github.com/user-attachments/assets/3c57f2d4-7986-43b7-b594-64cf52b10dfb" />
-
 
 ## 🕉️ 
 
