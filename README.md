@@ -5,7 +5,7 @@
 <h1 align="center">👋 Welcome to my GitHub Space!</h1>
 
 <p align="center">
-  <strong>AI/ML Engineer &amp; Researcher</strong> • Deep Learning Enthusiast 
+  <strong>AI/ML Engineer &amp; Researcher</strong> • Deep Learning Enthusiast • Patent Holder
 </p>
 
 <p align="center">
@@ -26,36 +26,54 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/Aragog540/Tarka">Tarka</a></h3>
-      <p><em>Multi-agent research system powered by LangGraph, Google Search, and persistent memory.</em></p>
+      <h3>🤖 <a href="https://github.com/Aragog540/Tarka">Tarka AI</a></h3>
+      <p><em>Multi-agent research system powered by LangGraph, LangChain Core, Tavily API, and ChromaDB. Deployed with Docker Compose.</em></p>
+      <p>
+        <a href="https://github.com/Aragog540/Tarka">💻 Codebase</a> &nbsp;•&nbsp; 
+        <a href="https://tarka-ibfg.onrender.com/">🌐 Live Demo</a>
+      </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/LangGraph-Orange?style=flat-square" alt="LangGraph" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>🏥 <a href="https://github.com/Aragog540/RAG-Based-Health-Bot">RAG-Based Health Bot</a></h3>
-      <p><em>Local-first medical RAG chatbot using FastAPI, LangGraph, ChromaDB, and Ollama.</em></p>
+      <p><em>Local-first medical RAG question-answering chatbot with relevance grading and hallucination detection.</em></p>
+      <p>
+        <a href="https://github.com/Aragog540/RAG-Based-Health-Bot">💻 Codebase</a>
+      </p>
       <p>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/LangGraph-Orange?style=flat-square" alt="LangGraph" />
         <img src="https://img.shields.io/badge/ChromaDB-blue?style=flat-square" alt="ChromaDB" />
-        <img src="https://img.shields.io/badge/Ollama-black?style=flat-square" alt="Ollama" />
+        <img src="https://img.shields.io/badge/Ollama-black?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌁 <a href="https://github.com/Aragog540/Sat-dhze">Sat-dhze</a></h3>
-      <p><em>Satellite image single-sensor dehazing using CNN-based Conditional Generative Adversarial Networks (cGAN).</em></p>
+      <h3>🌁 <a href="https://github.com/Aragog540/Sat-dhze">Satellite Dehazer</a> &amp; <a href="https://github.com/Aragog540/DeHazer-CED-">Image Dehazer</a></h3>
+      <p><em>cGAN and Enhanced U-Net models for single-sensor satellite dehazing, achieving 99% accuracy (+4 PSNR / +0.03 SSIM).</em></p>
+      <p>
+        <a href="https://github.com/Aragog540/Sat-dhze">💻 Satellite Dehazer</a> &nbsp;•&nbsp; 
+        <a href="https://github.com/Aragog540/DeHazer-CED-">💻 Image Dehazer</a>
+      </p>
       <p>
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+        <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
         <img src="https://img.shields.io/badge/GAN-purple?style=flat-square" alt="GAN" />
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>📈 <a href="https://github.com/Aragog540/Enhanced-Mamba-decoder-with-spatial-attention-and-adaptive-weighting.">UNetMamba Spatial Attention</a></h3>
-      <p><em>Enhanced UNetMamba integrating multi-scale spatial attention and adaptive weights for high-resolution segmentation.</em></p>
+      <p><em>UNetMamba decoder model featuring multi-scale spatial attention and adaptive weight maps for high-res remote sensing segmentation.</em></p>
+      <p>
+        <a href="https://github.com/Aragog540/Enhanced-Mamba-decoder-with-spatial-attention-and-adaptive-weighting.">💻 Codebase</a>
+      </p>
       <p>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
         <img src="https://img.shields.io/badge/Mamba-black?style=flat-square" alt="Mamba" />
@@ -69,12 +87,12 @@
 
 ## 🏆 Publications &amp; Patents
 
-- **📄 Published Research Paper (IEEE SCEECS 2025)**  
-  *Satellite single-sensor image dehazing using CNN-based Conditional Generative Adversarial Networks (cGAN).* Achieved a stellar **99% dehazing accuracy**.
-- **💡 Design Registration (Patent Office, Govt. of India)**  
-  Awarded a design registration for an innovative, multipurpose vegetable chopping board.
+- **📄 Published Research Paper (IEEE SCEECS 2025)** • [IEEE Xplore Citation](https://ieeexplore.ieee.org/document/10940251)  
+  *Dual-Environment Dehazing Using Enhanced U-Net for Indoor and Outdoor Scenarios.* Architected an Enhanced U-Net achieving a stellar **99% dehazing accuracy**.
+- **💡 Design Patent Registration (Govt. of India)**  
+  Granted an official design registration (Patent Office, India) for an innovative product design titled *"Multipurpose Vegetable Chopping Board"* (2025).
 - **🥇 Raman Research Award**  
-  Honored with the university's Raman Research Award for excellence in published research.
+  Honored with the university's Raman Research Award for outstanding contributions to published research.
 
 ---
 
@@ -108,6 +126,16 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 📜 Certifications
+
+- **🐍 Python for Data Science, AI &amp; Development** (IBM) • [Verify Credential](https://coursera.org/share/eb00bf6dea7efc9ec7ba71d0bb3a7cc2)
+- **⚙️ Applied Machine Learning in Python** (University of Michigan) • [Verify Credential](https://coursera.org/share/a72b32429f0b7a853e042d1158d231b9)
+- **🐙 Git &amp; GitHub** (IBM) • [Verify Credential](https://coursera.org/share/86c8d05a8cab54749327f6c422f380bc)
+- **☁️ Cloud Computing** (IBM) • [Verify Credential](https://coursera.org/share/6f5b15c410259d05e8db7a0878b7c64b)
+- **🤖 Generative AI** (Oracle)
 
 ---
 
