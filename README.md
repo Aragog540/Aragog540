@@ -5,7 +5,7 @@
 <h1 align="center">👋 Welcome to my GitHub Space!</h1>
 
 <p align="center">
-  <strong>AI/ML Engineer &amp; Researcher</strong> • Deep Learning Enthusiast • Patent Holder
+  <strong>AI/ML Engineer &amp; Researcher</strong> • Deep Learning Enthusiast 
 </p>
 
 <p align="center">
