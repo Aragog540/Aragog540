@@ -114,12 +114,12 @@
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Aragog540&show_icons=true&title_color=00f2fe&text_color=a0aec0&icon_color=ff007f&bg_color=0d0c15&hide_border=true" alt="Swaroop's GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Aragog540&show_icons=true&title_color=38bdf8&text_color=94a3b8&icon_color=6366f1&bg_color=0b0f19&hide_border=true" alt="Swaroop's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Aragog540&theme=dark&background=0d0c15&ring=00f2fe&fire=ff007f&currStreakNum=00f2fe&sideNums=a0aec0&sideLabels=a0aec0&dates=a0aec0&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Aragog540&layout=compact&title_color=00f2fe&text_color=a0aec0&icon_color=ff007f&bg_color=0d0c15&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=Aragog540&theme=dark&background=0b0f19&ring=38bdf8&fire=6366f1&currStreakNum=38bdf8&sideNums=94a3b8&sideLabels=94a3b8&dates=94a3b8&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Aragog540&layout=compact&title_color=38bdf8&text_color=94a3b8&icon_color=6366f1&bg_color=0b0f19&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
